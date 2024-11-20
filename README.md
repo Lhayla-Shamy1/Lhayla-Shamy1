@@ -4,10 +4,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
 <h2>Sobre mim</h2> 
 <p align="justify">Sou estudante do curso técnico em Informática no IFMA - Campus Açailândia.</p>
-Habilidades pessoais 
-Habilidades
-Redes sociais
-Contribuições
 
 <h2 align="left"> Habilidades</h2>
 <div align="left">
