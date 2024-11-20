@@ -29,7 +29,7 @@
   <a href="https://discordapp.com/users/656164509286924341">
     <img height="25" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/u/lhaylashamy@acad.ifma.edu.br/?view=cm&to=ivodossantossoaresjunior@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/lhaylashamy@acad.ifma.edu.br/?view=cm&to=lhaylashamy@acad.ifma.edu.br" target="_blank">
     <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
