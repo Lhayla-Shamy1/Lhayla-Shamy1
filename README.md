@@ -2,7 +2,9 @@
 ## OLÁ AMIGOS 👋
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
-Sobre mim
+<h2>Sobre mim</h2> 
+<p align="justify">Sou estudante do curso técnico em Informática no IFMA - Campus Açailândia.</p>
+
 Sou estudante do curso técnico em Informática no IFMA - Campus Açailândia
 Habilidades pessoais 
 Habilidades
