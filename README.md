@@ -9,7 +9,7 @@ Habilidades
 Redes sociais
 Contribuições
 
-<h2 align="left">🔨 Linguagens e ferramentas*</h2>
+<h2 align="left"> Linguagens e ferramentas*</h2>
 
 ###
 
