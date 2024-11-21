@@ -5,6 +5,7 @@
 <h2>Cursos</h2>
 <p align="justify">Curso de Capacitação Profissional - World Informática
 Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Corel Draw e Indesign.
+<br>
 Curso de Capacitação Profissional - World Informática
 Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
