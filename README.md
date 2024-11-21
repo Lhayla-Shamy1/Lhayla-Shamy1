@@ -29,6 +29,12 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height="40" alt="wordpress"  />
   <img width="12" />
+  <h2>Contribuições</h2>
+<div  align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lhayla-Shamy1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+</div>
 
 
   Redes sociais
