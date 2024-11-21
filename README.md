@@ -1,4 +1,4 @@
-<img  width="1000"  src="https://i.pinimg.com/originals/e9/23/36/e923360495943e6d7073431b0cfca6b1.gif">
+<img  width="200"  src="https://i.pinimg.com/originals/e9/23/36/e923360495943e6d7073431b0cfca6b1.gif">
 <h2>Sobre mim</h2> 
 <p align="justify">Sou estudante do curso técnico em Informática no IFMA - Campus Açailândia.</p>
 
