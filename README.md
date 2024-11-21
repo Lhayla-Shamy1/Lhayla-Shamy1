@@ -2,7 +2,7 @@
 <h2>Sobre mim</h2> 
 <p align="justify">Sou estudante do curso técnico em Informática no IFMA - Campus Açailândia.</p>
 
-<h2>Cursos</h2>
+<h2>Certificações</h2>
 <p align="justify">Curso de Capacitação Profissional - World Informática
 <br>
 Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Corel Draw e Indesign.
