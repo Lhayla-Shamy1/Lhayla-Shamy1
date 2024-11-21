@@ -30,17 +30,12 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   <img width="12" />
   <h2>Contribuições</h2>
   <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Lhayla-Shamy1&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=Lhayla-Shamy1&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lhayla-Shamy1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lhayla-Shamy1&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
   </div>
 
-  <div  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lhayla-Shamy1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph" />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lhayla-Shamy1&layout=compact&langs_count=7&theme=react)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lhayla-Shamy1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
   </div>
 
