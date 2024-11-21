@@ -2,6 +2,12 @@
 <h2>Sobre mim</h2> 
 <p align="justify">Sou estudante do curso técnico em Informática no IFMA - Campus Açailândia.</p>
 
+Curso de Capacitação Profissional - World Informática
+Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Corel Draw e Indesign.
+Curso de Capacitação Profissional - World Informática
+Trabalhos Acadêmicos, Windows, Word I e Word II.
+
+
 <h2 align="left"> Habilidades</h2>
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" alt="html5 logo"  />
