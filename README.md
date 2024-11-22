@@ -52,8 +52,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
     <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lhayla-Shamy1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph" /> <br>
- 
+
 </div>
 
 <!--
