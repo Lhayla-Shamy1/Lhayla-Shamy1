@@ -34,17 +34,11 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" alt="canva logo"  />
 </div>
