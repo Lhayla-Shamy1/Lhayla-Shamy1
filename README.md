@@ -2,18 +2,18 @@
 <p align="justify">Sou estudante do curso técnico em Informática no IFMA - Campus Açailândia.</p>
 
 <h2>Certificações</h2>
-<p align="justify">Curso de Capacitação Profissional - World Informática
+<p align="justify"> <li> Curso de Capacitação Profissional - World Informática
 <br>
 Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Corel Draw e Indesign.
 <br>
-Curso de Capacitação Profissional - World Informática
+<li> Curso de Capacitação Profissional - World Informática
 <br>
 Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
 
 <h2 align="left"> Habilidades</h2>
 <div align="left">
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain.svg" height="50" alt="css3 logo"  />
   <img width="12" />
