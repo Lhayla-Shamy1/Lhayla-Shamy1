@@ -26,7 +26,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-plain.svg" height="50" alt="wordpress"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height="50" alt="wordpress"  />
-  <img width="12" />
+  <img width="12" /> <br>
   <div align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lhayla-Shamy1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph" />
   
