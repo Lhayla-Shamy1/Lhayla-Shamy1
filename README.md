@@ -8,6 +8,7 @@ Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Core
 <br>
 <li> Curso de Capacitação Profissional - World Informática
 <br>
+<br>
 Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
 
