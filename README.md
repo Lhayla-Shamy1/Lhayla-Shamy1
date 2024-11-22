@@ -13,7 +13,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
 <h2 align="left"> Habilidades</h2>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain.svg" height="50" alt="css3 logo"  />
   <img width="12" />
