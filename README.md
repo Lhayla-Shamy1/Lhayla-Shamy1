@@ -15,6 +15,21 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 <h2 align="left"> Tecnologias</h2>
 <h2 align="left"> Linguagens</h2>
 <div align="left">
+  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+  ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
+  
+
+
+
+
+
+
+
+
+
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain.svg" height="50" alt="css3 logo"  />
