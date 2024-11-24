@@ -1,6 +1,6 @@
 
 <h2>Sobre mim</h2> 
-<p align="justify">Sou estudante do curso técnico em Informática no IFMA - Campus Açailândia.</p>
+<p align="justify">Sou estudante do curso técnico em Informática no IFMA  Campus Açailândia.</p>
 
 <h2>Certificações</h2>
 <p align="justify"> <li> Curso de Capacitação Profissional - World Informática
