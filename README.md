@@ -12,7 +12,8 @@ Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Core
 Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
 
-<h2 align="left"> Habilidades</h2>
+<h2 align="left"> Tecnologias</h2>
+<h2 align="left"> Linguagens</h2>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
   <img width="12" />
