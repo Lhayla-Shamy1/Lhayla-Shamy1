@@ -15,9 +15,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 <h2 align="left"> Tecnologias</h2>
 
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC)
-
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress&logoColor=blue)
-
 ![Debian](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=A81D33)
 
 <h2 align="left"> Linguagens</h2>
