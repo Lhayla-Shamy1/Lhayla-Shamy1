@@ -40,33 +40,9 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
 
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-plain.svg" height="50" alt="wordpress"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height="50" alt="wordpress"  />
-  <img width="12" /> <br>
-  <div align="left">
+  
     
-  <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" alt="canva logo"  />
-</div>
+
 </div>
   
   <h2>Estatísticas</h2>
