@@ -46,7 +46,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   </div>
 
 
-  Redes sociais
+  <h2>Redes Sociais</h2>
   <div align="letf">
     
   [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/lhaylashamy9)
