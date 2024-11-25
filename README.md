@@ -17,7 +17,6 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC)
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress&logoColor=blue)
 ![Debian](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=A81D33)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-000?style=for-the-badge&logo=cisco&logoColor=blue)
