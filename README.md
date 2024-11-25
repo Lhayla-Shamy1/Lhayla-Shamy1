@@ -52,6 +52,9 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/lhaylashamy9)
 
   [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lhayla-Shamy1)
+
+  [![Gmail](https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhaylashamy@acad.ifma.edu.br)
 
   </a>
