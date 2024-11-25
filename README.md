@@ -49,11 +49,11 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   <h2>Redes Sociais</h2>
   <div align="letf">
     
-  [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/lhaylashamy9)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhaylashamy@acad.ifma.edu.br)
 
   [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lhayla-Shamy1)
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhaylashamy@acad.ifma.edu.br)
+  [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/lhaylashamy9)
 
 
   </a>
