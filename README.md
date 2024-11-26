@@ -14,7 +14,11 @@
 🔧 Proatividade: Antecipo necessidades e proponho soluções antes que os problemas se agravem. Durante projetos acadêmicos, sempre me ofereço para ajudar colegas com dificuldades e propor melhorias no planejamento.</p>
 
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3h4ejhpYnhlMGJpeTBqcTRud2t0N3A2ZjhkbXU3MTA0NTFmcXNmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DihuE8jPKOyBEayQaj/giphy.webp">
+<img align="right" height="100" src="https://ggames.com.br/uploads/monthly_2022_12/capoo-blue-cat.thumb.gif.9befb2b13fcc4b87a605101934ddcdb5.gif">
+
+
+
+
 
 
   <h2> 📱 Redes Sociais</h2>
