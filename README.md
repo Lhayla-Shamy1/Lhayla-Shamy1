@@ -12,7 +12,7 @@ Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Core
 Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
 
-<h2 align="left"> Tecnologias</h2>
+<h2 align="left"> 🖥️🌟Tecnologias</h2>
 
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC)
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress&logoColor=blue)
@@ -22,7 +22,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-000?style=for-the-badge&logo=cisco&logoColor=blue)
 
 
-<h2 align="left"> Linguagens</h2>
+<h2 align="left"> 🌐🌟 Linguagens</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
@@ -41,7 +41,6 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 </div>
   </div>
 
-
   </div>
 
 
@@ -52,7 +51,6 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lhayla-Shamy1)
   [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/lhaylashamy9)
   [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lhayla-shamy-santos-fonseca-bba7a433a/)
-
 
   </a>
 </div>
