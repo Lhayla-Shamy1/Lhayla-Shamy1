@@ -13,7 +13,7 @@
 </div>
 
 
-<h2>Certificações</h2>
+<h2> 🎓 Certificações</h2>
 <p align="justify"> <li> Curso de Capacitação Profissional - World Informática
 <br>
 Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Corel Draw e Indesign.
