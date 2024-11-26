@@ -34,6 +34,12 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
   </a>
 </div>
+<h2 align="left"> 🌐🌟 Linguagens</h2>
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
 
 <h2 align="left"> 🖥️🌟Tecnologias</h2>
 
@@ -45,14 +51,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-000?style=for-the-badge&logo=cisco&logoColor=blue)
 
 
-<h2 align="left"> 🌐🌟 Linguagens</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
-
-  
 
 </div>
   
