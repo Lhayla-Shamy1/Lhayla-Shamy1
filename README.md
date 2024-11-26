@@ -3,13 +3,6 @@
 <p align="justify">Sou estudante do curso técnico em Informática no IFMA  Campus Açailândia.</p>
   </a>
 </div>
-<h2>Meu perfil</h2> 
-<p align="justify">No meu GitHub, você encontrará projetos desenvolvidos na disciplina de Desenvolvimento Web, parte do curso de Informática. Além disso, poderá conhecer mais sobre mim e explorar detalhes dos meus trabalhos.</p>
- - 🖼️ <a href= "https://lhayla-shamy1.github.io/Galeria---Studio-Ghibli/"> Galeria</a> <br>
- - 📝 <a href= "https://lhayla-shamy1.github.io/Contato/"> Formulário </a> <br>
- - 📂 <a href= "https://lhayla-shamy1.github.io/Meu-portf-lio/" >Meu portfólio</a> 
- 
-  </a>
 </div>
 
 
@@ -21,6 +14,13 @@ Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Core
 <li> Curso de Capacitação Profissional - World Informática
 <br>
 Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
+
+<h2>Meu perfil</h2> 
+<p align="justify">No meu GitHub, você encontrará projetos desenvolvidos na disciplina de Desenvolvimento Web, parte do curso de Informática. Além disso, poderá conhecer mais sobre mim e explorar detalhes dos meus trabalhos.</p>
+ - 🖼️ <a href= "https://lhayla-shamy1.github.io/Galeria---Studio-Ghibli/"> Galeria</a> <br>
+ - 📝 <a href= "https://lhayla-shamy1.github.io/Contato/"> Formulário </a> <br>
+ - 📂 <a href= "https://lhayla-shamy1.github.io/Meu-portf-lio/" >Meu portfólio</a> 
+ 
 
   <h2> 📱 Redes Sociais</h2>
   <div align="letf">
