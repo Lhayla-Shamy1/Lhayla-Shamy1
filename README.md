@@ -19,7 +19,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 ![Debian](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=A81D33)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-000?style=for-the-badge&logo=cisco&logoColor=blue)
 
