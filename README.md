@@ -1,15 +1,6 @@
 
 <h2>Sobre mim</h2> 
 <p align="justify">Sou estudante do curso técnico em Informática no IFMA  Campus Açailândia.</p>
-
-  <h2> 📱 Redes Sociais</h2>
-  <div align="letf">
-    
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhaylashamy@acad.ifma.edu.br)
-  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lhayla-Shamy1)
-  [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/lhaylashamy9)
-  [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lhayla-shamy-santos-fonseca-bba7a433a/)
-
   </a>
 </div>
 
@@ -23,6 +14,16 @@ Windows, Word, Excel, PowerPoint, Access, Internet, Digitação, Photoshop, Core
 <br>
 Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
+  <h2> 📱 Redes Sociais</h2>
+  <div align="letf">
+    
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhaylashamy@acad.ifma.edu.br)
+  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lhayla-Shamy1)
+  [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/lhaylashamy9)
+  [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lhayla-shamy-santos-fonseca-bba7a433a/)
+
+  </a>
+</div>
 
 <h2 align="left"> 🖥️🌟Tecnologias</h2>
 
