@@ -14,13 +14,6 @@
 🔧 Proatividade: Antecipo necessidades e proponho soluções antes que os problemas se agravem. Durante projetos acadêmicos, sempre me ofereço para ajudar colegas com dificuldades e propor melhorias no planejamento.</p>
 
 
-<img align="right" height="100" src="https://ggames.com.br/uploads/monthly_2022_12/capoo-blue-cat.thumb.gif.9befb2b13fcc4b87a605101934ddcdb5.gif">
-
-
-
-
-
-
   <h2> 📱 Redes Sociais</h2>
   <div align="letf">
     
@@ -44,6 +37,9 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
  - 🖼️ <a href= "https://lhayla-shamy1.github.io/Galeria---Studio-Ghibli/"> Galeria</a> <br>
  - 📝 <a href= "https://lhayla-shamy1.github.io/Contato/"> Formulário </a> <br>
  - 📂 <a href= "https://lhayla-shamy1.github.io/Meu-portf-lio/" >Meu portfólio</a> 
+ <img align="right" height="100" src="https://ggames.com.br/uploads/monthly_2022_12/capoo-blue-cat.thumb.gif.9befb2b13fcc4b87a605101934ddcdb5.gif">
+
+
  
 
   </a>
