@@ -4,7 +4,7 @@
   </a>
 </div>
 <h2>Meu perfil</h2> 
-<p align="justify">No meu GitHub, você encontrará projetos desenvolvidos na disciplina de Desenvolvimento Web, parte do curso de Informática. Além disso, poderá conhecer mais sobre mim e explorar detalhes do meu trabalho.</p>
+<p align="justify">No meu GitHub, você encontrará projetos desenvolvidos na disciplina de Desenvolvimento Web, parte do curso de Informática. Além disso, poderá conhecer mais sobre mim e explorar detalhes dos meus trabalhos.</p>
  - 🖼️ <a href= "https://lhayla-shamy1.github.io/Galeria---Studio-Ghibli/"> Galeria</a> <br>
  - 📝 <a href= "https://lhayla-shamy1.github.io/Contato/"> Formulário </a> <br>
  - 📂 <a href= "https://lhayla-shamy1.github.io/Meu-portf-lio/" >Meu portfólio</a> 
