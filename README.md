@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Lhayla+Shamy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil+🌻;+Olá,+me+chamo+Lhayla+Shamy)](https://git.io/typing-svg)
+
 
 <h2> 🌻 Sobre mim</h2> 
 <p align="justify">Meu nome é Lhayla, tenho 17 anos e sou uma pessoa dedicada, com grande interesse em aprender e desenvolver novas habilidades. Estou em busca de oportunidades que me permitam aplicar meus conhecimentos, colaborar em projetos e crescer profissionalmente.</p>
