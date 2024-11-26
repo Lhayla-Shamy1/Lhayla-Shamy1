@@ -1,5 +1,5 @@
 
-<h2>👩🏻 Sobre mim</h2> 
+<h2> 🌻 Sobre mim</h2> 
 <p align="justify">Meu nome é Lhayla, tenho 17 anos e sou uma pessoa dedicada, com grande interesse em aprender e desenvolver novas habilidades.Estou em busca de oportunidades que me permitam aplicar meus conhecimentos, colaborar em projetos e crescer profissionalmente.</p>
 
 <p align="justify">Sou estudante do curso técnico em Informática no IFMA – Campus Açailândia, cursando o segundo ano do ensino médio integrado, com foco no desenvolvimento de habilidades técnicas e práticas na área de tecnologia.</p>
