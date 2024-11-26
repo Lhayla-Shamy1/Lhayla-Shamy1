@@ -3,6 +3,10 @@
 <p align="justify">Sou estudante do curso técnico em Informática no IFMA  Campus Açailândia.</p>
   </a>
 </div>
+<h2>Meu perfil</h2> 
+<p align="justify">Os projetos disponíveis no meu GitHub estão relacionados à disciplina de Desenvolvimento Web, do curso de Informática. Além disso, você poderá conhecer um pouco mais sobre mim e explorar detalhes do meu trabalho.</p>
+  </a>
+</div>
 
 
 <h2>Certificações</h2>
