@@ -53,6 +53,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lhayla-Shamy1)
 
   [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/lhaylashamy9)
+  [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://https://www.linkedin.com/in/lhayla-shamy-santos-fonseca-bba7a433a/)
 
 
   </a>
