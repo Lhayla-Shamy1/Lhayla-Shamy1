@@ -34,7 +34,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
 <h2>Meu perfil</h2> 
 <p align="justify">No meu GitHub, você encontrará projetos desenvolvidos na disciplina de Desenvolvimento Web, parte do curso de Informática. Além disso, poderá conhecer mais sobre mim e explorar detalhes dos meus trabalhos.</p>
- - 🖼️ <a href= "https://lhayla-shamy1.github.io/Galeria---Studio-Ghibli/"> Galeria</a> <br>  <img align="right" height="200" src="https://media1.giphy.com/media/lP8ezu4iNVmZYOZn3j/200w.gif?cid=6c09b9527tl18f8eqb1j5380zozsb2fthecc98u6g9xaudmy&ep=v1_gifs_search&rid=200w.gif&ct=g">
+ - 🖼️ <a href= "https://lhayla-shamy1.github.io/Galeria---Studio-Ghibli/"> Galeria</a> <br>  <img align="right" height="50" src="https://media1.giphy.com/media/lP8ezu4iNVmZYOZn3j/200w.gif?cid=6c09b9527tl18f8eqb1j5380zozsb2fthecc98u6g9xaudmy&ep=v1_gifs_search&rid=200w.gif&ct=g">
  - 📝 <a href= "https://lhayla-shamy1.github.io/Contato/"> Formulário </a> <br>
  - 📂 <a href= "https://lhayla-shamy1.github.io/Meu-portf-lio/" >Meu portfólio</a> 
 
