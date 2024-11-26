@@ -12,6 +12,10 @@
 🌟 Trabalho em equipe: Tenho facilidade em colaborar com outras pessoas para alcançar objetivos. Um exemplo foi durante o desenvolvimento de um trabalho no IFMA, em que participei da divisão de tarefas, garantindo uma entrega de qualidade.
 
 🔧 Proatividade: Antecipo necessidades e proponho soluções antes que os problemas se agravem. Durante projetos acadêmicos, sempre me ofereço para ajudar colegas com dificuldades e propor melhorias no planejamento.</p>
+
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3h4ejhpYnhlMGJpeTBqcTRud2t0N3A2ZjhkbXU3MTA0NTFmcXNmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DihuE8jPKOyBEayQaj/giphy.webp
+
+
   <h2> 📱 Redes Sociais</h2>
   <div align="letf">
     
