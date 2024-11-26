@@ -6,7 +6,7 @@
   </a>
 </div>
 </div>
-<h2> 🌻 Habilidades pessoais</h2> 
+<h2> ❀ Habilidades pessoais</h2> 
 <p align="justify">🌐 Comunicação eficaz: Transmito ideias de forma clara e acessível. Na apresentação do meu TCC, expliquei a dificuldade de acesso a arquivos acadêmicos no IFMA de maneira simples, destacando a importância de um repositório acadêmico.
   
 🌟 Trabalho em equipe: Tenho facilidade em colaborar com outras pessoas para alcançar objetivos. Um exemplo foi durante o desenvolvimento de um trabalho no IFMA, em que participei da divisão de tarefas, garantindo uma entrega de qualidade.
