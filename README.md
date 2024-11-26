@@ -45,7 +45,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
   </div>
 
 
-  <h2>Redes Sociais</h2>
+  <h2> ## 📱 Redes Sociais</h2>
   <div align="letf">
     
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhaylashamy@acad.ifma.edu.br)
