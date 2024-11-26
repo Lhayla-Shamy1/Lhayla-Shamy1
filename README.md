@@ -7,14 +7,11 @@
 </div>
 </div>
 <h2> 🌻 Habilidades pessoais</h2> 
-<p align="justify">🌐 Comunicação eficaz <br>
-Transmito ideias de forma clara e acessível. Na introdução do meu TCC, expliquei a dificuldade de acesso a arquivos acadêmicos no IFMA de maneira simples, destacando a importância de um repositório acadêmico.
+<p align="justify">🌐 Comunicação eficaz: Transmito ideias de forma clara e acessível. Na introdução do meu TCC, expliquei a dificuldade de acesso a arquivos acadêmicos no IFMA de maneira simples, destacando a importância de um repositório acadêmico.
   
-🌟 Trabalho em equipe
-Tenho facilidade em colaborar com outras pessoas para alcançar objetivos em comum. Um exemplo foi durante o desenvolvimento de um trabalho no IFMA, em que participei da divisão de tarefas, garantindo uma entrega de qualidade.
+🌟 Trabalho em equipe: Tenho facilidade em colaborar com outras pessoas para alcançar objetivos em comum. Um exemplo foi durante o desenvolvimento de um trabalho no IFMA, em que participei da divisão de tarefas, garantindo uma entrega de qualidade.
 
-🔧 Proatividade
-Antecipo necessidades e busco soluções antes que os problemas se agravem. Durante projetos acadêmicos, sempre me ofereço para ajudar colegas com dificuldades e propor melhorias no planejamento.</p>
+🔧 Proatividade: Antecipo necessidades e busco soluções antes que os problemas se agravem. Durante projetos acadêmicos, sempre me ofereço para ajudar colegas com dificuldades e propor melhorias no planejamento.</p>
   <h2> 📱 Redes Sociais</h2>
   <div align="letf">
     
