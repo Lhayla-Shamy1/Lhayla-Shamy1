@@ -33,7 +33,7 @@ Trabalhos Acadêmicos, Windows, Word I e Word II.</p>
 
 </div>
   
-  <h2>Estatísticas</h2>
+  <h2> 📈 Estatísticas</h2>
   <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Lhayla-Shamy1&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lhayla-Shamy1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph" />
