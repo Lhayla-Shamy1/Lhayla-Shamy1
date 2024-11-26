@@ -7,7 +7,7 @@
 </div>
 </div>
 <h2> 🌻 Habilidades pessoais</h2> 
-<p align="justify">🌐 Comunicação eficaz
+<p align="justify">🌐 Comunicação eficaz <br>
 Transmito ideias de forma clara e acessível. Na introdução do meu TCC, expliquei a dificuldade de acesso a arquivos acadêmicos no IFMA de maneira simples, destacando a importância de um repositório acadêmico.
   
 🌟 Trabalho em equipe
